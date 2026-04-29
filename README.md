@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a final-year Computer Science and Engineering student at SNS College of Engineering (CGPA 8.26) with a passion for becoming a full-stack developer. Skilled in HTML, CSS, JavaScript, and currently exploring React and Spring, I also have experience with GitHub and Firebase. I’ve built projects like AppointmentPro (appointment booking website) and an E-Learning Platform, and interned at Inpro (JavaScript event handling) and Mindful AI (full-stack development). I’m NPTEL-certified in Java, attended a Java bootcamp, and served as Tech Lead in the LeetCode Championship Program, guiding eight students in coding and communication. Focused and organized, I strive for quality in my work while continuously improving my adaptability and multitasking skills.</p>
+<p align="left">I’m a final-year Computer Science and Engineering student at SNS College of Engineering (CGPA 8.22) with a passion for becoming a full-stack developer. Skilled in HTML, CSS, JavaScript, and currently exploring React and Spring, I also have experience with GitHub and Firebase. I’ve built projects like AppointmentPro (appointment booking website) and an E-Learning Platform, and interned at Inpro (JavaScript event handling) and Mindful AI (full-stack development). I’m NPTEL-certified in Java, attended a Java bootcamp, and served as Tech Lead in the LeetCode Championship Program, guiding eight students in coding and communication. Focused and organized, I strive for quality in my work while continuously improving my adaptability and multitasking skills.</p>
 
 ###
 
